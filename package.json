@@ -1,11 +1,19 @@
 {
-  "name": "VainillaJs",
+  "name": "vainillajs-spa",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create a spa using only Javascript",
+  "main": "index.js",
   "scripts": {
-    
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Gregory Sánchezx",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrogergsanchez/VainillaJs-spa.git"
+  },
+  "author": "Gregory Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yrogergsanchez/VainillaJs-spa/issues"
+  },
+  "homepage": "https://github.com/yrogergsanchez/VainillaJs-spa#readme"
 }
