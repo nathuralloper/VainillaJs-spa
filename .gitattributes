@@ -1,1 +1,4 @@
-* linguist-languague=JavaScript
+*.css linguist-language=JavaScript 
+*.* linguist-vendored=JavaScript 
+
+*.js linguist-vendored=true
